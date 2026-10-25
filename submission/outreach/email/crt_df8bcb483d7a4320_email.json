@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_df8bcb483d7a4320",
+  "creator_name": "CISO Series \u2014 Cybersecurity Headlines",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for CISO Series \u2014 Cybersecurity Headlines (re: PHP vulnerabilities update, ConnectWise AI spies)",
+      "body": "Hi CISO Series \u2014 Cybersecurity Headlines,\n\nI recently reviewed your release \"PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown\" (https://cisoseries.libsyn.com/php-vulnerabilities-update-connectwise-ai-spies-africa-cybercrime-takedown) and noted your public production context: Public content/repurposing workflow need (each week, weekly, daily): \"Join us ea.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 12+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown",
+      "referenced_content_url": "https://cisoseries.libsyn.com/php-vulnerabilities-update-connectwise-ai-spies-africa-cybercrime-takedown",
+      "cited_evidence_ids": [
+        "evd_d06db2d6517c4c34",
+        "evd_b783dfeb9bba495f",
+        "evd_9ad5582734d74c7a"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: PHP vulnerabilities update, ConnectWise AI \u2014 multi-channel clip turnaround",
+      "body": "Hi CISO Series \u2014 Cybersecurity Headlines,\n\nFollowing up on my note regarding \"PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown\" (https://cisoseries.libsyn.com/php-vulnerabilities-update-connectwise-ai-spies-africa-cybercrime-takedown).\n\nBecause your channel actively monetises and publishes long-form content (2 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown",
+      "referenced_content_url": "https://cisoseries.libsyn.com/php-vulnerabilities-update-connectwise-ai-spies-africa-cybercrime-takedown",
+      "cited_evidence_ids": [
+        "evd_d06db2d6517c4c34",
+        "evd_b783dfeb9bba495f",
+        "evd_9ad5582734d74c7a"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: CISO Series \u2014 Cybersecurity Headlines content workflow",
+      "body": "Hi CISO Series \u2014 Cybersecurity Headlines,\n\nFinal follow-up from my side regarding \"PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "PHP vulnerabilities update, ConnectWise AI spies, Africa cybercrime takedown",
+      "referenced_content_url": "https://cisoseries.libsyn.com/php-vulnerabilities-update-connectwise-ai-spies-africa-cybercrime-takedown",
+      "cited_evidence_ids": [
+        "evd_d06db2d6517c4c34",
+        "evd_b783dfeb9bba495f",
+        "evd_9ad5582734d74c7a"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

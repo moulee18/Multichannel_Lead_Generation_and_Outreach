@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_2db66f01acbb4c69",
+  "creator_name": "Natalie Ellis \u2014 the bossbabe podcast",
+  "priority_tier": "Priority A",
+  "channel": "instagram",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi Natalie Ellis \u2014 the bossbabe podcast \u2014 watched your recent piece \"Erin Winters: Grow and Monetize Your Following With a Signature Series\" (https://bossbabe.com). Noticed your workflow focus (Public content/repurposing workflow need (editing, every week, weekly): \"Sh). With IncuBrix's Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance, creators turn each long-form release into captioned short clips without backlog bottlenecks.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi Natalie Ellis \u2014 the bossbabe podcast, quick follow-up on \"Erin Winters: Grow and Monetize Your Following With a Signature Series\". Would a 3-clip sample workflow mapped to your Podcaster / Video Podcaster cadence via IncuBrix (Long-Form to Short-Form Repurposing Workflow) be useful to review?\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Last note from me, Natalie Ellis \u2014 the bossbabe podcast \u2014 if clearing post-production & captioning work around \"Erin Winters: Grow and Monetize Your Following With a Signature Series\" becomes a priority this quarter, happy to share how IncuBrix supports Editing & Captioning Assistance.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    }
+  ]
+}

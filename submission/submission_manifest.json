@@ -1,0 +1,108 @@
+{
+  "export_batch_id": "exp_e217a0487d4f",
+  "generated_at": "2026-10-25T13:13:04.810832+00:00",
+  "readiness_status": "READY",
+  "genuine_qualified_leads": 1096,
+  "synthetic_demo_qualified_leads": 30,
+  "workbook_status": "COMPLETED",
+  "artifacts": [
+    {
+      "artifact_type": "LEADS_CSV",
+      "file_name": "leads.csv",
+      "record_count": 1096,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "2e61277da95946ea791ca1abfe8ed361ccc8a2f4a727a963cd4f042cca6fda48"
+    },
+    {
+      "artifact_type": "COMPLETED_WORKBOOK",
+      "file_name": "completed_workbook.xlsx",
+      "record_count": 1096,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "1212ff1f897890df168f92954ab5361178a8fe025b9973e66cf8f1826035e8ad"
+    },
+    {
+      "artifact_type": "EVIDENCE_INDEX",
+      "file_name": "evidence_index.csv",
+      "record_count": 10255,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "8b3a6979f29b566b6e6212fd29e51b37dff401bd4a9f0928dcb95224abc59647"
+    },
+    {
+      "artifact_type": "SEED_TEST_RESULTS",
+      "file_name": "seed_test_results.json",
+      "record_count": 6,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "42650915aa9f3b0132ef6a059ca11ba27f26ff46c10fc9b35c4363d3895daff4"
+    },
+    {
+      "artifact_type": "RUNTIME_COSTS_CSV",
+      "file_name": "runtime_costs.csv",
+      "record_count": 22,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "c7933b72128bca12523b3008ead32f0fb770b43080299454ab2989c71972809b"
+    },
+    {
+      "artifact_type": "PRODUCT_OBSERVATIONS_MD",
+      "file_name": "product_observations.md",
+      "record_count": 5,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "675ebed1d98a26f12cdb0a4caf0ce1b71b2021d7fc4ec80ad417e3722a8bb2b2"
+    },
+    {
+      "artifact_type": "GROWTH_OPPORTUNITIES_MD",
+      "file_name": "growth_opportunities.md",
+      "record_count": 3,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "53994afc375c18eea4452d3495a75849f03dea323938d28e6487fa8de5ecdede"
+    },
+    {
+      "artifact_type": "QUALIFICATION_AUDIT_MD",
+      "file_name": "qualification_audit.md",
+      "record_count": 1096,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "2719c33c09552b39a50513a88844df83afd2e83206a74018d9d6a542c2c9615e"
+    },
+    {
+      "artifact_type": "GEOGRAPHIC_COMPLIANCE_MD",
+      "file_name": "geographic_compliance.md",
+      "record_count": 7,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "95ae2500e9355ef32531005e0d33a099c49204ae7b9cb890b6e487711e3d0846"
+    },
+    {
+      "artifact_type": "THIRTY_DAY_LAUNCH_PLAN_MD",
+      "file_name": "thirty_day_launch_plan.md",
+      "record_count": 4,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "9dbbfa6b9399724521e536989f2dc1792cdb3930974d438ec860e4830e30e361"
+    },
+    {
+      "artifact_type": "READINESS_REPORT_MD",
+      "file_name": "readiness_report.md",
+      "record_count": 10,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "418a6cbf64e70a7866821e9602cda0185707cc51432a48a162427f2dc078815a"
+    },
+    {
+      "artifact_type": "PRODUCT_WALKTHROUGH_CHECKLIST",
+      "file_name": "product_walkthrough_checklist.md",
+      "record_count": 4,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "4d69340e71e2c560736cd1968282b1395ff8b9d803f4b0ae0b484045c7a5a076"
+    },
+    {
+      "artifact_type": "TECHNICAL_DEMO_CHECKLIST",
+      "file_name": "technical_demo_checklist.md",
+      "record_count": 7,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "59c28876887680c38dcbde23b97aad2632fd8d4dc6544e5e908f2d3058ff412c"
+    },
+    {
+      "artifact_type": "VIDEO_LINKS_JSON",
+      "file_name": "video_links.json",
+      "record_count": 2,
+      "contains_synthetic_data": false,
+      "checksum_sha256": "8524545fd4ed05bd016ddd0acbf2197ae078208480e586e7014915cf2b872712"
+    }
+  ]
+}

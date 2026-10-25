@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_d0f2e5f52a524a85",
+  "creator_name": "QuickAndDirtyTips.com \u2014 Money Girl",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for QuickAndDirtyTips.com \u2014 Money Girl (re: Brokerage vs. retirement account\u2013which one shoul)",
+      "body": "Hi QuickAndDirtyTips.com \u2014 Money Girl,\n\nI recently reviewed your release \"Brokerage vs. retirement account\u2013which one should you choose?\" (https://shows.acast.com/money-girl/episodes/brokerage-vs-retirement-accountwhich-one-should-you-choose) and noted your public production context: Public content/repurposing workflow need (transcript, weekly, interviews): \"Face.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 9+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"Brokerage vs. retirement account\u2013which one should you choose?\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Brokerage vs. retirement account\u2013which one should you choose?",
+      "referenced_content_url": "https://shows.acast.com/money-girl/episodes/brokerage-vs-retirement-accountwhich-one-should-you-choose",
+      "cited_evidence_ids": [
+        "evd_fb40ef4354bc4f33",
+        "evd_8ed9441a63e54cca",
+        "evd_ee368798ca6a417c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: Brokerage vs. retirement account\u2013which one \u2014 multi-channel clip turnaround",
+      "body": "Hi QuickAndDirtyTips.com \u2014 Money Girl,\n\nFollowing up on my note regarding \"Brokerage vs. retirement account\u2013which one should you choose?\" (https://shows.acast.com/money-girl/episodes/brokerage-vs-retirement-accountwhich-one-should-you-choose).\n\nBecause your channel actively monetises and publishes long-form content (12 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Brokerage vs. retirement account\u2013which one should you choose?",
+      "referenced_content_url": "https://shows.acast.com/money-girl/episodes/brokerage-vs-retirement-accountwhich-one-should-you-choose",
+      "cited_evidence_ids": [
+        "evd_fb40ef4354bc4f33",
+        "evd_8ed9441a63e54cca",
+        "evd_ee368798ca6a417c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: QuickAndDirtyTips.com \u2014 Money Girl content workflow",
+      "body": "Hi QuickAndDirtyTips.com \u2014 Money Girl,\n\nFinal follow-up from my side regarding \"Brokerage vs. retirement account\u2013which one should you choose?\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Brokerage vs. retirement account\u2013which one should you choose?",
+      "referenced_content_url": "https://shows.acast.com/money-girl/episodes/brokerage-vs-retirement-accountwhich-one-should-you-choose",
+      "cited_evidence_ids": [
+        "evd_fb40ef4354bc4f33",
+        "evd_8ed9441a63e54cca",
+        "evd_ee368798ca6a417c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

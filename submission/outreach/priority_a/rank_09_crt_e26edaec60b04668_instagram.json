@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_e26edaec60b04668",
+  "creator_name": "Demo Creator 25 (Creator Economy)",
+  "priority_tier": "Priority A",
+  "channel": "instagram",
+  "is_synthetic": true,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi Demo Creator 25 (Creator Economy) \u2014 watched your recent piece \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_25_01). Noticed your workflow focus (Public content/repurposing workflow need (clip, caption, content workflow):). With IncuBrix's Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance, creators turn each long-form release into captioned short clips without backlog bottlenecks.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_bb60a3fd191e4911",
+        "evd_32c412d0fbc44040",
+        "evd_f39fa941b267490d"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": false
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi Demo Creator 25 (Creator Economy), quick follow-up on \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\". Would a 3-clip sample workflow mapped to your Podcaster / Video Podcaster cadence via IncuBrix (Long-Form to Short-Form Repurposing Workflow) be useful to review?\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_bb60a3fd191e4911",
+        "evd_32c412d0fbc44040",
+        "evd_f39fa941b267490d"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Last note from me, Demo Creator 25 (Creator Economy) \u2014 if clearing post-production & captioning work around \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\" becomes a priority this quarter, happy to share how IncuBrix supports Editing & Captioning Assistance.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_bb60a3fd191e4911",
+        "evd_32c412d0fbc44040",
+        "evd_f39fa941b267490d"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    }
+  ]
+}

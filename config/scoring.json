@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "note": "Project-defined configurable scoring model out of 100 points. Not official IncuBrix scoring rules.",
+  "priority_a_limit": 25,
+  "priority_b_min_score": 70.0,
+  "weights": {
+    "product_relevance": 30,
+    "need_evidence_strength": 25,
+    "commercial_readiness": 20,
+    "publishing_activity": 15,
+    "contact_channel_quality": 10
+  },
+  "approved_countries": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Ireland",
+    "Australia",
+    "New Zealand",
+    "Singapore"
+  ],
+  "target_segments": [
+    "Podcaster / Video Podcaster",
+    "YouTuber / Video-First Creator",
+    "Expert-Led Creator (Coach / Consultant / Educator)"
+  ],
+  "excluded_categories": [
+    "Agency",
+    "Creator Management Firm",
+    "Generic Brand",
+    "Publication",
+    "Directory",
+    "Fan Account"
+  ]
+}

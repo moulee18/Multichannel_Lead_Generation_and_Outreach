@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_2db66f01acbb4c69",
+  "creator_name": "Natalie Ellis \u2014 the bossbabe podcast",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for Natalie Ellis \u2014 the bossbabe podcast (re: Erin Winters: Grow and Monetize Your Following W)",
+      "body": "Hi Natalie Ellis \u2014 the bossbabe podcast,\n\nI recently reviewed your release \"Erin Winters: Grow and Monetize Your Following With a Signature Series\" (https://bossbabe.com) and noted your public production context: Public content/repurposing workflow need (editing, every week, weekly): \"She rev.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 4+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"Erin Winters: Grow and Monetize Your Following With a Signature Series\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: Erin Winters: Grow and Monetize Your Follo \u2014 multi-channel clip turnaround",
+      "body": "Hi Natalie Ellis \u2014 the bossbabe podcast,\n\nFollowing up on my note regarding \"Erin Winters: Grow and Monetize Your Following With a Signature Series\" (https://bossbabe.com).\n\nBecause your channel actively monetises and publishes long-form content (9 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: Natalie Ellis \u2014 the bossbabe podcast content workflow",
+      "body": "Hi Natalie Ellis \u2014 the bossbabe podcast,\n\nFinal follow-up from my side regarding \"Erin Winters: Grow and Monetize Your Following With a Signature Series\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Erin Winters: Grow and Monetize Your Following With a Signature Series",
+      "referenced_content_url": "https://bossbabe.com",
+      "cited_evidence_ids": [
+        "evd_a158804dcadf4543",
+        "evd_2a507df3032d4581",
+        "evd_ef2f024dc87e4fa5"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

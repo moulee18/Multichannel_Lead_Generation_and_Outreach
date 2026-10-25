@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "channels": {
+    "email": {
+      "label": "Business Email",
+      "priority_rank": 1,
+      "max_length": 1500,
+      "requires_subject": true,
+      "requires_opt_out": true,
+      "automated_sending_permitted": true,
+      "policy_notes": "CAN-SPAM / GDPR / India DPDP compliant business inquiry. Requires explicit sender identity and one-line opt-out.",
+      "opt_out_template": "Reply 'stop' or 'opt out' at any time and I will not follow up."
+    },
+    "linkedin": {
+      "label": "LinkedIn Profile / Business Page",
+      "priority_rank": 2,
+      "max_length": 1300,
+      "requires_subject": false,
+      "requires_opt_out": true,
+      "automated_sending_permitted": false,
+      "policy_notes": "No bulk automated InMail/connection scraping. Manual personalised outreach or approved API only.",
+      "opt_out_template": "No worries if not relevant—happy to never follow up if you prefer."
+    },
+    "instagram": {
+      "label": "Instagram Creator Business Profile",
+      "priority_rank": 3,
+      "max_length": 1000,
+      "requires_subject": false,
+      "requires_opt_out": true,
+      "automated_sending_permitted": false,
+      "policy_notes": "No unauthorized DM automation. Short, contextual creator-first message referencing recent reel/episode.",
+      "opt_out_template": "If this isn't useful right now, just let me know and I won't message again."
+    },
+    "x": {
+      "label": "X (Twitter) Public Business Handle",
+      "priority_rank": 4,
+      "max_length": 550,
+      "requires_subject": false,
+      "requires_opt_out": true,
+      "automated_sending_permitted": false,
+      "policy_notes": "Respect X automation rules; no unsolicited bulk DMs.",
+      "opt_out_template": "Say the word if you'd rather not receive follow-ups."
+    },
+    "website_contact": {
+      "label": "Creator Website Business Contact / Guest Pitch",
+      "priority_rank": 5,
+      "max_length": 1200,
+      "requires_subject": true,
+      "requires_opt_out": true,
+      "automated_sending_permitted": false,
+      "policy_notes": "Manual submission via creator-owned business contact page or podcast guest/sponsor desk.",
+      "opt_out_template": "Please let me know if you prefer no further outreach."
+    }
+  }
+}

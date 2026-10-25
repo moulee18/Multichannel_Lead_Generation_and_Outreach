@@ -1,0 +1,13 @@
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_000.png'
+duration 60.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_001.png'
+duration 75.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_002.png'
+duration 75.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_003.png'
+duration 75.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_004.png'
+duration 45.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_005.png'
+duration 30.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_technical_demo_6min_frame_005.png'

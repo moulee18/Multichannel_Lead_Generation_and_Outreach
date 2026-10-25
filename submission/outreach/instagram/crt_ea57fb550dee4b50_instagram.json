@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_ea57fb550dee4b50",
+  "creator_name": "The Peter Schiff Show Podcast",
+  "priority_tier": "Priority A",
+  "channel": "instagram",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi The Peter Schiff Show Podcast \u2014 watched your recent piece \"2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit\" (https://schiffradio.com). Noticed your workflow focus (Public content/repurposing workflow need (weekly, episodes, podcast): \"The ). With IncuBrix's Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance, creators turn each long-form release into captioned short clips without backlog bottlenecks.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit",
+      "referenced_content_url": "https://schiffradio.com",
+      "cited_evidence_ids": [
+        "evd_80ef0687e6744e32",
+        "evd_7c5139ee87ca404b",
+        "evd_92abd32627e24db1"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi The Peter Schiff Show Podcast, quick follow-up on \"2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit\". Would a 3-clip sample workflow mapped to your Podcaster / Video Podcaster cadence via IncuBrix (Long-Form to Short-Form Repurposing Workflow) be useful to review?\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit",
+      "referenced_content_url": "https://schiffradio.com",
+      "cited_evidence_ids": [
+        "evd_80ef0687e6744e32",
+        "evd_7c5139ee87ca404b",
+        "evd_92abd32627e24db1"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Last note from me, The Peter Schiff Show Podcast \u2014 if clearing post-production & captioning work around \"2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit\" becomes a priority this quarter, happy to share how IncuBrix supports Editing & Captioning Assistance.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "2008 and 2021 Are Hitting at the Same Time... The Inflation Bomb Is Lit",
+      "referenced_content_url": "https://schiffradio.com",
+      "cited_evidence_ids": [
+        "evd_80ef0687e6744e32",
+        "evd_7c5139ee87ca404b",
+        "evd_92abd32627e24db1"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    }
+  ]
+}

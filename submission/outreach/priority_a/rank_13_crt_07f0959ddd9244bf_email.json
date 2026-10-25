@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_07f0959ddd9244bf",
+  "creator_name": "Morning Brew \u2014 Tech Brew Ride Home",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for Morning Brew \u2014 Tech Brew Ride Home (re: OpenAI Takes a $150B Haircut)",
+      "body": "Hi Morning Brew \u2014 Tech Brew Ride Home,\n\nI recently reviewed your release \"OpenAI Takes a $150B Haircut\" (https://www.ridehome.info/show/techmeme-ride-home/) and noted your public production context: Public content/repurposing workflow need (clips, clip, weekly): \"Sources: Anthro.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 12+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"OpenAI Takes a $150B Haircut\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "OpenAI Takes a $150B Haircut",
+      "referenced_content_url": "https://www.ridehome.info/show/techmeme-ride-home/",
+      "cited_evidence_ids": [
+        "evd_693c17f8597d4faf",
+        "evd_8bc02c5c936e4eeb",
+        "evd_0b9532de94a84f98"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: OpenAI Takes a $150B Haircut \u2014 multi-channel clip turnaround",
+      "body": "Hi Morning Brew \u2014 Tech Brew Ride Home,\n\nFollowing up on my note regarding \"OpenAI Takes a $150B Haircut\" (https://www.ridehome.info/show/techmeme-ride-home/).\n\nBecause your channel actively monetises and publishes long-form content (12 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "OpenAI Takes a $150B Haircut",
+      "referenced_content_url": "https://www.ridehome.info/show/techmeme-ride-home/",
+      "cited_evidence_ids": [
+        "evd_693c17f8597d4faf",
+        "evd_8bc02c5c936e4eeb",
+        "evd_0b9532de94a84f98"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: Morning Brew \u2014 Tech Brew Ride Home content workflow",
+      "body": "Hi Morning Brew \u2014 Tech Brew Ride Home,\n\nFinal follow-up from my side regarding \"OpenAI Takes a $150B Haircut\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "OpenAI Takes a $150B Haircut",
+      "referenced_content_url": "https://www.ridehome.info/show/techmeme-ride-home/",
+      "cited_evidence_ids": [
+        "evd_693c17f8597d4faf",
+        "evd_8bc02c5c936e4eeb",
+        "evd_0b9532de94a84f98"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

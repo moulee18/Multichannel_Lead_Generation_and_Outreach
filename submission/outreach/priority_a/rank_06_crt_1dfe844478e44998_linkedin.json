@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_1dfe844478e44998",
+  "creator_name": "Demo Creator 16 (B2B SaaS)",
+  "priority_tier": "Priority A",
+  "channel": "linkedin",
+  "is_synthetic": true,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi Demo Creator 16 (B2B SaaS),\n\nI recently reviewed your release \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_16_01) and noted your public production context: Public content/repurposing workflow need (repurpos, shorts, clips): \"Workflow no.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 8+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nNo worries if not relevant\u2014happy to never follow up if you prefer.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_16_01",
+      "cited_evidence_ids": [
+        "evd_0a1fef989ee84454",
+        "evd_3d9f914f40664cbd",
+        "evd_861515d6a37a41d2"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "No worries if not relevant\u2014happy to never follow up if you prefer.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi Demo Creator 16 (B2B SaaS),\n\nFollowing up on my note regarding \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_16_01).\n\nBecause your channel actively monetises and publishes long-form content (3 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nNo worries if not relevant\u2014happy to never follow up if you prefer.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_16_01",
+      "cited_evidence_ids": [
+        "evd_0a1fef989ee84454",
+        "evd_3d9f914f40664cbd",
+        "evd_861515d6a37a41d2"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "No worries if not relevant\u2014happy to never follow up if you prefer.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Hi Demo Creator 16 (B2B SaaS),\n\nFinal follow-up from my side regarding \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nNo worries if not relevant\u2014happy to never follow up if you prefer.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_16_01",
+      "cited_evidence_ids": [
+        "evd_0a1fef989ee84454",
+        "evd_3d9f914f40664cbd",
+        "evd_861515d6a37a41d2"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "No worries if not relevant\u2014happy to never follow up if you prefer.",
+      "validation_passed": true
+    }
+  ]
+}

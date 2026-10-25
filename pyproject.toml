@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "incubrix-growthos"
+version = "1.0.0"
+description = "IncuBrix GrowthOS — AI-Powered Creator Lead Generation & Outreach Engine"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic>=2.9.0",
+    "sqlalchemy>=2.0.35",
+    "alembic>=1.13.3",
+    "httpx>=0.27.2",
+    "pandas>=2.2.3",
+    "openpyxl>=3.1.5",
+    "python-dotenv>=1.0.1",
+    "python-multipart>=0.0.12",
+    "itsdangerous>=2.2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3.3",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

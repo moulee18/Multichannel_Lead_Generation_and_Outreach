@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_7da5ae0700af4b28",
+  "creator_name": "The Verge \u2014 Decoder with Nilay Patel",
+  "priority_tier": "Priority A",
+  "channel": "instagram",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi The Verge \u2014 Decoder with Nilay Patel \u2014 watched your recent piece \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\" (https://theverge.com). Noticed your workflow focus (Public content/repurposing workflow need (transcript, new episode, weekly):). With IncuBrix's Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance, creators turn each long-form release into captioned short clips without backlog bottlenecks.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi The Verge \u2014 Decoder with Nilay Patel, quick follow-up on \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\". Would a 3-clip sample workflow mapped to your Podcaster / Video Podcaster cadence via IncuBrix (Long-Form to Short-Form Repurposing Workflow) be useful to review?\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Last note from me, The Verge \u2014 Decoder with Nilay Patel \u2014 if clearing post-production & captioning work around \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\" becomes a priority this quarter, happy to share how IncuBrix supports Editing & Captioning Assistance.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    }
+  ]
+}

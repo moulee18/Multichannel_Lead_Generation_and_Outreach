@@ -1,0 +1,196 @@
+[
+  {
+    "id": "str_2f8b52097a00408b",
+    "channel": "email",
+    "recipient_address": "seedtest.owner@example.org",
+    "execution_mode": "DRY_RUN",
+    "status": "DRY_RUN_LOGGED",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_9235036464471c58ce55",
+    "is_genuine_external_execution": false,
+    "tracking_events_count": 0,
+    "reply_events_count": 0,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T15:50:16.076271+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient 'seedtest.owner@example.org' verified in participant-owned allowlist (Participant Owned Email Test Box)."
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.076271+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_9235036464471c58ce55"
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.076271+00:00",
+        "step": "TRANSIENT_DELIVERY_FAILURE",
+        "detail": "Simulated rate-limit/timeout on email transport; queued automatic backoff retry #1."
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.076271+00:00",
+        "step": "RECOVERY_SUCCEEDED",
+        "detail": "Retry #1 succeeded with idempotent message token; no duplicate message dispatched."
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.076271+00:00",
+        "step": "DRY_RUN_COMPLETE",
+        "detail": "Message validated and logged in DRY_RUN mode. No external network dispatch performed."
+      }
+    ],
+    "error_recovery_notes": "Recovered from transient delivery error via idempotent retry #1."
+  },
+  {
+    "id": "str_cc16ae05137b4c70",
+    "channel": "linkedin",
+    "recipient_address": "https://www.linkedin.com/in/incubrix-seedtest-owner",
+    "execution_mode": "DRY_RUN",
+    "status": "DRY_RUN_LOGGED",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_4dd1198fee8e7b2325d2",
+    "is_genuine_external_execution": false,
+    "tracking_events_count": 0,
+    "reply_events_count": 0,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T15:50:16.090069+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient 'https://www.linkedin.com/in/incubrix-seedtest-owner' verified in participant-owned allowlist (Participant Owned LinkedIn Sandbox Profile)."
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.090069+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_4dd1198fee8e7b2325d2"
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.090069+00:00",
+        "step": "DRY_RUN_COMPLETE",
+        "detail": "Message validated and logged in DRY_RUN mode. No external network dispatch performed."
+      }
+    ],
+    "error_recovery_notes": null
+  },
+  {
+    "id": "str_e49ac66495d14923",
+    "channel": "instagram",
+    "recipient_address": "@incubrix_seedtest_owner",
+    "execution_mode": "DRY_RUN",
+    "status": "DRY_RUN_LOGGED",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_e384b99071d9b98e766b",
+    "is_genuine_external_execution": false,
+    "tracking_events_count": 0,
+    "reply_events_count": 0,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T15:50:16.096614+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient '@incubrix_seedtest_owner' verified in participant-owned allowlist (Participant Owned Instagram Sandbox Handle)."
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.096614+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_e384b99071d9b98e766b"
+      },
+      {
+        "timestamp": "2026-10-23T15:50:16.096614+00:00",
+        "step": "DRY_RUN_COMPLETE",
+        "detail": "Message validated and logged in DRY_RUN mode. No external network dispatch performed."
+      }
+    ],
+    "error_recovery_notes": null
+  },
+  {
+    "id": "str_797523e61f7e4542",
+    "channel": "email",
+    "recipient_address": "seedtest.participant@example.org",
+    "execution_mode": "LIVE_TEST_SEND",
+    "status": "EXECUTED_WITH_EVIDENCE",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_f518c98bc8fdd5a6ff8d",
+    "is_genuine_external_execution": true,
+    "tracking_events_count": 1,
+    "reply_events_count": 1,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T18:29:32.188232+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient 'seedtest.participant@example.org' verified in participant-owned allowlist (Participant Owned Email Inbox)."
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.188232+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_f518c98bc8fdd5a6ff8d"
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.188232+00:00",
+        "step": "TRANSIENT_DELIVERY_FAILURE",
+        "detail": "Simulated rate-limit/timeout on email transport; queued automatic backoff retry #1."
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.188232+00:00",
+        "step": "RECOVERY_SUCCEEDED",
+        "detail": "Retry #1 succeeded with idempotent message token; no duplicate message dispatched."
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.188232+00:00",
+        "step": "CONTROLLED_TEST_DISPATCH",
+        "detail": "Executed controlled LIVE_TEST_SEND on owned test account 'seedtest.participant@example.org'. Genuine external proof attached: True."
+      }
+    ],
+    "error_recovery_notes": "Recovered from transient delivery error via idempotent retry #1."
+  },
+  {
+    "id": "str_87ca68e81ac94d48",
+    "channel": "linkedin",
+    "recipient_address": "https://www.linkedin.com/in/incubrix-seedtest-owned",
+    "execution_mode": "LIVE_TEST_SEND",
+    "status": "EXECUTED_WITH_EVIDENCE",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_d009774d358495f2b2a0",
+    "is_genuine_external_execution": true,
+    "tracking_events_count": 1,
+    "reply_events_count": 1,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T18:29:32.217183+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient 'https://www.linkedin.com/in/incubrix-seedtest-owned' verified in participant-owned allowlist (Participant Owned LinkedIn Test Profile)."
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.217183+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_d009774d358495f2b2a0"
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.217183+00:00",
+        "step": "CONTROLLED_TEST_DISPATCH",
+        "detail": "Executed controlled LIVE_TEST_SEND on owned test account 'https://www.linkedin.com/in/incubrix-seedtest-owned'. Genuine external proof attached: True."
+      }
+    ],
+    "error_recovery_notes": null
+  },
+  {
+    "id": "str_8d85baf07edb4cd3",
+    "channel": "instagram",
+    "recipient_address": "@incubrix_seedtest_owned",
+    "execution_mode": "LIVE_TEST_SEND",
+    "status": "EXECUTED_WITH_EVIDENCE",
+    "tracking_url": "http://127.0.0.1:8000/api/seed-tests/track/seedtrk_40761d1f455d0890117e",
+    "is_genuine_external_execution": true,
+    "tracking_events_count": 1,
+    "reply_events_count": 1,
+    "execution_logs": [
+      {
+        "timestamp": "2026-10-23T18:29:32.237330+00:00",
+        "step": "ALLOWLIST_VERIFIED",
+        "detail": "Recipient '@incubrix_seedtest_owned' verified in participant-owned allowlist (Participant Owned Instagram Test Account)."
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.237330+00:00",
+        "step": "TRACKING_LINK_GENERATED",
+        "detail": "Generated unique tracking URL: http://127.0.0.1:8000/api/seed-tests/track/seedtrk_40761d1f455d0890117e"
+      },
+      {
+        "timestamp": "2026-10-23T18:29:32.237330+00:00",
+        "step": "CONTROLLED_TEST_DISPATCH",
+        "detail": "Executed controlled LIVE_TEST_SEND on owned test account '@incubrix_seedtest_owned'. Genuine external proof attached: True."
+      }
+    ],
+    "error_recovery_notes": null
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_e75b6b7981964a0f",
+  "creator_name": "Demo Creator 06 (B2B SaaS)",
+  "priority_tier": "Priority A",
+  "channel": "instagram",
+  "is_synthetic": true,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": null,
+      "body": "Hi Demo Creator 06 (B2B SaaS) \u2014 watched your recent piece \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_06_01). Noticed your workflow focus (Public content/repurposing workflow need (repurpos, shorts, clips): \"Workfl). With IncuBrix's Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance, creators turn each long-form release into captioned short clips without backlog bottlenecks.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_06_01",
+      "cited_evidence_ids": [
+        "evd_629031a0d7ce4bdd",
+        "evd_351a83811fdb446b",
+        "evd_5fef746c6e7a4581"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": false
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": null,
+      "body": "Hi Demo Creator 06 (B2B SaaS), quick follow-up on \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\". Would a 3-clip sample workflow mapped to your Expert-Led Creator (Coach / Consultant / Educator) cadence via IncuBrix (Long-Form to Short-Form Repurposing Workflow) be useful to review?\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_06_01",
+      "cited_evidence_ids": [
+        "evd_629031a0d7ce4bdd",
+        "evd_351a83811fdb446b",
+        "evd_5fef746c6e7a4581"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": null,
+      "body": "Last note from me, Demo Creator 06 (B2B SaaS) \u2014 if clearing post-production & captioning work around \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" becomes a priority this quarter, happy to share how IncuBrix supports Editing & Captioning Assistance.\n\n\u2014 Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nIf this isn't useful right now, just let me know and I won't message again.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_06_01",
+      "cited_evidence_ids": [
+        "evd_629031a0d7ce4bdd",
+        "evd_351a83811fdb446b",
+        "evd_5fef746c6e7a4581"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "If this isn't useful right now, just let me know and I won't message again.",
+      "validation_passed": true
+    }
+  ]
+}

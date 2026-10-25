@@ -1,0 +1,9 @@
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_product_walkthrough_4min_frame_000.png'
+duration 45.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_product_walkthrough_4min_frame_001.png'
+duration 90.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_product_walkthrough_4min_frame_002.png'
+duration 75.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_product_walkthrough_4min_frame_003.png'
+duration 30.00
+file 'A:/Growth Engineer/output/_tmp_video_frames/incubrix_product_walkthrough_4min_frame_003.png'

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IncuBrix GrowthOS — AI-Powered Creator Lead Generation & Outreach Engine</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="stylesheet" href="/css/responsive.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Dark Navy Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-brand">
+        <div class="brand-logo">IB</div>
+        <div class="brand-text">
+          <h1>IncuBrix GrowthOS</h1>
+          <span>Creator Acquisition Engine</span>
+        </div>
+      </div>
+
+      <nav class="sidebar-nav" id="sidebar-nav" aria-label="Main Navigation">
+        <div class="nav-section-label">CORE OPERATIONS</div>
+        <button class="nav-item active" data-page="overview">
+          <span class="nav-icon">01</span>
+          <span>Overview</span>
+        </button>
+        <button class="nav-item" data-page="discovery">
+          <span class="nav-icon">02</span>
+          <span>Creator Discovery</span>
+        </button>
+        <button class="nav-item" data-page="creators">
+          <span class="nav-icon">03</span>
+          <span>Creator Database</span>
+        </button>
+        <button class="nav-item" data-page="verification">
+          <span class="nav-icon">04</span>
+          <span>Verification Queue</span>
+        </button>
+
+        <div class="nav-section-label">INTELLIGENCE & OUTREACH</div>
+        <button class="nav-item" data-page="intelligence">
+          <span class="nav-icon">05</span>
+          <span>Lead Intelligence</span>
+        </button>
+        <button class="nav-item" data-page="outreach">
+          <span class="nav-icon">06</span>
+          <span>Outreach Studio</span>
+        </button>
+        <button class="nav-item" data-page="agents">
+          <span class="nav-icon">07</span>
+          <span>Agent Control Centre</span>
+        </button>
+
+        <div class="nav-section-label">QUALITY & DELIVERY</div>
+        <button class="nav-item" data-page="audit">
+          <span class="nav-icon">08</span>
+          <span>Quality Audit</span>
+        </button>
+        <button class="nav-item" data-page="seed-tests">
+          <span class="nav-icon">09</span>
+          <span>Seed Test Lab</span>
+        </button>
+        <button class="nav-item" data-page="submission">
+          <span class="nav-icon">10</span>
+          <span>Submission Centre</span>
+        </button>
+        <button class="nav-item" data-page="settings">
+          <span class="nav-icon">11</span>
+          <span>Settings</span>
+        </button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="system-pill" id="health-indicator">
+          <span class="status-dot online"></span>
+          <span id="health-text">API Connected</span>
+        </div>
+        <a href="/docs" target="_blank" rel="noopener" class="api-docs-link">OpenAPI Docs (/docs) &nearr;</a>
+      </div>
+    </aside>
+
+    <!-- Main Workspace -->
+    <div class="main-container">
+      <header class="topbar">
+        <div class="topbar-left">
+          <button class="mobile-menu-btn" id="mobile-menu-btn" aria-label="Toggle Menu">&#9776;</button>
+          <div>
+            <h2 id="page-title">Overview Dashboard</h2>
+            <p id="page-subtitle" class="topbar-subtitle">Real-time database metrics, qualification funnel & three-agent status</p>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <span class="badge badge-info" id="data-mode-badge">Workspace Active</span>
+          <button class="btn btn-secondary btn-sm" id="btn-quick-refresh" title="Run Smart Refresh">
+            Smart Refresh
+          </button>
+          <button class="btn btn-primary btn-sm" id="btn-quick-pipeline" title="Run Full 3-Agent Pipeline">
+            Run Full Pipeline
+          </button>
+        </div>
+      </header>
+
+      <main class="workspace-content" id="workspace-content">
+        <div class="loading-state">Loading IncuBrix GrowthOS workspace...</div>
+      </main>
+    </div>
+  </div>
+
+  <!-- Modal Drawer for Lead Evidence Passport / Score Explainer / Channel Explainer -->
+  <div class="modal-backdrop hidden" id="global-modal-backdrop">
+    <div class="modal-drawer" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header">
+        <h3 id="modal-title">Details</h3>
+        <button class="modal-close-btn" id="modal-close-btn" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>

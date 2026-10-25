@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+output/*.db
+output/*.sqlite
+output/*.sqlite3
+output/submission/*.zip
+submission/demos/*.mp4
+submission/demos/video_records/
+.DS_Store
+Thumbs.db

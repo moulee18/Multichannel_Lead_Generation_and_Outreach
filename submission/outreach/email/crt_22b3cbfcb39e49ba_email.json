@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_22b3cbfcb39e49ba",
+  "creator_name": "The PetaPixel Photography Podcast",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for The PetaPixel Photography Podcast (re: Building Our Very Own Frankencameras)",
+      "body": "Hi The PetaPixel Photography Podcast,\n\nI recently reviewed your release \"Building Our Very Own Frankencameras\" (https://podcasters.spotify.com/pod/show/petapixel/episodes/Building-Our-Very-Own-Frankencameras-e3qq245) and noted your public production context: Public content/repurposing workflow need (editing, weekly, episodes): \"From buil.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 5+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"Building Our Very Own Frankencameras\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Building Our Very Own Frankencameras",
+      "referenced_content_url": "https://podcasters.spotify.com/pod/show/petapixel/episodes/Building-Our-Very-Own-Frankencameras-e3qq245",
+      "cited_evidence_ids": [
+        "evd_6e2ec74ec23d4a6e",
+        "evd_347976fb32a04b51",
+        "evd_a297b74afdb3480b"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: Building Our Very Own Frankencameras \u2014 multi-channel clip turnaround",
+      "body": "Hi The PetaPixel Photography Podcast,\n\nFollowing up on my note regarding \"Building Our Very Own Frankencameras\" (https://podcasters.spotify.com/pod/show/petapixel/episodes/Building-Our-Very-Own-Frankencameras-e3qq245).\n\nBecause your channel actively monetises and publishes long-form content (8 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Building Our Very Own Frankencameras",
+      "referenced_content_url": "https://podcasters.spotify.com/pod/show/petapixel/episodes/Building-Our-Very-Own-Frankencameras-e3qq245",
+      "cited_evidence_ids": [
+        "evd_6e2ec74ec23d4a6e",
+        "evd_347976fb32a04b51",
+        "evd_a297b74afdb3480b"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: The PetaPixel Photography Podcast content workflow",
+      "body": "Hi The PetaPixel Photography Podcast,\n\nFinal follow-up from my side regarding \"Building Our Very Own Frankencameras\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Building Our Very Own Frankencameras",
+      "referenced_content_url": "https://podcasters.spotify.com/pod/show/petapixel/episodes/Building-Our-Very-Own-Frankencameras-e3qq245",
+      "cited_evidence_ids": [
+        "evd_6e2ec74ec23d4a6e",
+        "evd_347976fb32a04b51",
+        "evd_a297b74afdb3480b"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

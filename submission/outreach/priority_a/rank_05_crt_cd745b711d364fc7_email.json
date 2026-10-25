@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_cd745b711d364fc7",
+  "creator_name": "Demo Creator 26 (B2B SaaS)",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": true,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for Demo Creator 26 (B2B SaaS) (re: [SYNTHETIC DEMO] B2B SaaS & Founder Growth Maste)",
+      "body": "Hi Demo Creator 26 (B2B SaaS),\n\nI recently reviewed your release \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_26_01) and noted your public production context: Public content/repurposing workflow need (repurpos, shorts, clips): \"Workflow note: we are actively hiring a v.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for YouTuber / Video-First Creator teams publishing 8+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_26_01",
+      "cited_evidence_ids": [
+        "evd_5ce419bc744644a5",
+        "evd_d923adf28bd04a08",
+        "evd_15626fb23afe440c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: [SYNTHETIC DEMO] B2B SaaS & Founder Growth \u2014 multi-channel clip turnaround",
+      "body": "Hi Demo Creator 26 (B2B SaaS),\n\nFollowing up on my note regarding \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_26_01).\n\nBecause your channel actively monetises and publishes long-form content (3 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_26_01",
+      "cited_evidence_ids": [
+        "evd_5ce419bc744644a5",
+        "evd_d923adf28bd04a08",
+        "evd_15626fb23afe440c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: Demo Creator 26 (B2B SaaS) content workflow",
+      "body": "Hi Demo Creator 26 (B2B SaaS),\n\nFinal follow-up from my side regarding \"[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] B2B SaaS & Founder Growth Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_26_01",
+      "cited_evidence_ids": [
+        "evd_5ce419bc744644a5",
+        "evd_d923adf28bd04a08",
+        "evd_15626fb23afe440c"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

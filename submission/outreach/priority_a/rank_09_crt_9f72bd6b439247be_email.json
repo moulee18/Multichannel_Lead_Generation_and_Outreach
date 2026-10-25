@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_9f72bd6b439247be",
+  "creator_name": "Demo Creator 25 (Creator Economy)",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": true,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for Demo Creator 25 (Creator Economy) (re: [SYNTHETIC DEMO] Creator Economy & Podcast Strat)",
+      "body": "Hi Demo Creator 25 (Creator Economy),\n\nI recently reviewed your release \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_25_01) and noted your public production context: Public content/repurposing workflow need (clip, caption, content workflow): \"Wor.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 8+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_da0a35009c6c45bb",
+        "evd_a26b688290f245e4",
+        "evd_610460affe0d487e"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: [SYNTHETIC DEMO] Creator Economy & Podcast \u2014 multi-channel clip turnaround",
+      "body": "Hi Demo Creator 25 (Creator Economy),\n\nFollowing up on my note regarding \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\" (https://www.youtube.com/watch?v=vid_25_01).\n\nBecause your channel actively monetises and publishes long-form content (3 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_da0a35009c6c45bb",
+        "evd_a26b688290f245e4",
+        "evd_610460affe0d487e"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: Demo Creator 25 (Creator Economy) content workflow",
+      "body": "Hi Demo Creator 25 (Creator Economy),\n\nFinal follow-up from my side regarding \"[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "[SYNTHETIC DEMO] Creator Economy & Podcast Strategy Masterclass Ep 101: Scaling Content Workflows",
+      "referenced_content_url": "https://www.youtube.com/watch?v=vid_25_01",
+      "cited_evidence_ids": [
+        "evd_da0a35009c6c45bb",
+        "evd_a26b688290f245e4",
+        "evd_610460affe0d487e"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

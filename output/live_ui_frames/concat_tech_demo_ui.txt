@@ -1,0 +1,19 @@
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_01_overview.png'
+duration 60.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_02_creators_list.png'
+duration 40.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_01_overview.png'
+duration 45.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_05_intelligence.png'
+duration 45.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_06_outreach_studio.png'
+duration 50.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_04_discovery.png'
+duration 45.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_07_seed_test_lab.png'
+duration 45.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_08_audit_simulator.png'
+duration 40.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_09_submission_center.png'
+duration 35.00
+file 'A:/Growth Engineer/output/live_ui_frames/annotated_ui_09_submission_center.png'

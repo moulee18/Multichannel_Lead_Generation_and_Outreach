@@ -1,0 +1,57 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: incubrix-growthos-web
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=${DATABASE_URL:-sqlite:////app/output/growthos.db}
+      - WORKBOOK_TEMPLATE_PATH=/app/config/incubrix_option1_workbook_template.xlsx
+      - YOUTUBE_API_KEY=${YOUTUBE_API_KEY:-}
+      - LLM_PROVIDER=${LLM_PROVIDER:-none}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      - APP_SECRET_KEY=${APP_SECRET_KEY:-incubrix-local-dev-secret-key-2026}
+      - ADMIN_USERNAME=${ADMIN_USERNAME:-admin}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-incubrix-local-admin}
+      - OUTBOUND_TEST_MODE=${OUTBOUND_TEST_MODE:-dry_run}
+      - CORS_ORIGINS=http://127.0.0.1:8000,http://localhost:8000,http://0.0.0.0:8000
+    volumes:
+      - ./output:/app/output
+      - ./submission:/app/submission
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://127.0.0.1:8000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: incubrix-growthos-worker
+    command: ["python", "worker/main.py"]
+    environment:
+      - DATABASE_URL=${DATABASE_URL:-sqlite:////app/output/growthos.db}
+      - WORKBOOK_TEMPLATE_PATH=/app/config/incubrix_option1_workbook_template.xlsx
+      - YOUTUBE_API_KEY=${YOUTUBE_API_KEY:-}
+      - LLM_PROVIDER=${LLM_PROVIDER:-none}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - OLLAMA_BASE_URL=${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      - APP_SECRET_KEY=${APP_SECRET_KEY:-incubrix-local-dev-secret-key-2026}
+      - OUTBOUND_TEST_MODE=${OUTBOUND_TEST_MODE:-dry_run}
+    volumes:
+      - ./output:/app/output
+      - ./submission:/app/submission
+    depends_on:
+      web:
+        condition: service_healthy
+    restart: unless-stopped

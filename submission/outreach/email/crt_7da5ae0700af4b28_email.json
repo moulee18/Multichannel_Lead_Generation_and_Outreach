@@ -1,0 +1,57 @@
+{
+  "creator_id": "crt_7da5ae0700af4b28",
+  "creator_name": "The Verge \u2014 Decoder with Nilay Patel",
+  "priority_tier": "Priority A",
+  "channel": "email",
+  "is_synthetic": false,
+  "steps": [
+    {
+      "step_number": 1,
+      "step_label": "First Contact",
+      "subject": "Repurposing workflow for The Verge \u2014 Decoder with Nilay Patel (re: Bill Gates says to prepare for 20 years of \u2018tumu)",
+      "body": "Hi The Verge \u2014 Decoder with Nilay Patel,\n\nI recently reviewed your release \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\" (https://theverge.com) and noted your public production context: Public content/repurposing workflow need (transcript, new episode, weekly): \"Rea.\n\nIncuBrix provides confirmed Long-Form to Short-Form Repurposing Workflow and Editing & Captioning Assistance designed specifically for Podcaster / Video Podcaster teams publishing 12+ recent items\u2014helping turn long-form recordings into captioned vertical clips and multi-channel posts while keeping editorial quality intact.\n\nWould you be open to a brief 10-minute walkthrough using \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\" as a test case?\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 2,
+      "step_label": "Follow-Up 1 (Day 4)",
+      "subject": "Re: Bill Gates says to prepare for 20 years of \u2014 multi-channel clip turnaround",
+      "body": "Hi The Verge \u2014 Decoder with Nilay Patel,\n\nFollowing up on my note regarding \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\" (https://theverge.com).\n\nBecause your channel actively monetises and publishes long-form content (12 long-form items in the last 60 days), IncuBrix's Long-Form to Short-Form Repurposing Workflow can eliminate repetitive manual clipping and caption formatting between episodes.\n\nHappy to send over a 2-minute breakdown tailored to your workflow if helpful.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    },
+    {
+      "step_number": 3,
+      "step_label": "Follow-Up 2 (Day 9)",
+      "subject": "Closing the loop: The Verge \u2014 Decoder with Nilay Patel content workflow",
+      "body": "Hi The Verge \u2014 Decoder with Nilay Patel,\n\nFinal follow-up from my side regarding \"Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption\". If streamlining Editing & Captioning Assistance and clearing your post-production backlog isn't a priority right now, I won't crowd your inbox.\n\nIf timing improves later this quarter, feel free to reach back out anytime.\n\nBest regards,\nArjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)\nReply 'stop' or 'opt out' at any time and I will not follow up.",
+      "referenced_content_title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+      "referenced_content_url": "https://theverge.com",
+      "cited_evidence_ids": [
+        "evd_b4b2375dcdd5430f",
+        "evd_4043a28c89fb4380",
+        "evd_7b1f7478c52a4a92"
+      ],
+      "sender_identity": "Arjun Mehta (Growth Engineering Candidate) \u2014 Independent Growth Assessment Participant (evaluating IncuBrix workflows)",
+      "opt_out_text": "Reply 'stop' or 'opt out' at any time and I will not follow up.",
+      "validation_passed": true
+    }
+  ]
+}

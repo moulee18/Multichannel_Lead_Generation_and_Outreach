@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "capabilities": [
+    {
+      "capability_key": "long_to_short_repurposing",
+      "feature_name": "Long-Form to Short-Form Repurposing Workflow",
+      "description": "Helps video podcasters, YouTubers, and educators turn long-form episodes and videos into structured short-form clips and derivative assets.",
+      "source_evidence": "IncuBrix Assessment Brief (Page 1: 'content creation, repurposing, editing, captions, publishing, consistency, backlog or team workflow')",
+      "verification_date": "2026-10-23",
+      "confirmed": true,
+      "suitable_use_cases": [
+        "Repurposing 45+ minute podcast episodes into YouTube Shorts, Reels, and LinkedIn clips",
+        "Reducing post-production turnaround time between long-form recording and multi-channel clip publishing"
+      ],
+      "limitations": "Does not replace original creator recording or fabricate guest footage."
+    },
+    {
+      "capability_key": "Automated_captions_and_editing",
+      "feature_name": "Editing & Captioning Assistance",
+      "description": "Streamlines video editing, caption formatting, and transcript-aligned clip preparation for spoken-word creators.",
+      "source_evidence": "IncuBrix Assessment Brief (Page 1: 'repurposing, editing, captions, publishing, consistency, backlog or team workflow')",
+      "verification_date": "2026-10-23",
+      "confirmed": true,
+      "suitable_use_cases": [
+        "Adding accurate captions to educational and coaching videos",
+        "Standardising clip formatting across YouTube, Instagram, and LinkedIn"
+      ],
+      "limitations": "Requires clear source audio for highest transcript accuracy."
+    },
+    {
+      "capability_key": "multi_channel_publishing_consistency",
+      "feature_name": "Multi-Channel Publishing & Backlog Consistency",
+      "description": "Supports consistent publishing schedules, content backlog organisation, and team workflow handoffs across creator distribution channels.",
+      "source_evidence": "IncuBrix Assessment Brief (Page 1 & Option 4 Brief: multi-channel publishing, consistency, backlog and team workflow)",
+      "verification_date": "2026-10-23",
+      "confirmed": true,
+      "suitable_use_cases": [
+        "Clearing unedited episode backlogs",
+        "Maintaining weekly publishing cadence without expanding external editing headcount",
+        "Coordinating review and publishing handoffs between host and editor"
+      ],
+      "limitations": "Subject to third-party platform API rate limits and publishing permissions."
+    }
+  ]
+}
